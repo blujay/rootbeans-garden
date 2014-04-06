@@ -1,0 +1,25 @@
+{
+  "name": "rootbeans-garden",
+  "version": "0.0.0",
+  "description": "rootbeans-garden ================",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blujay/rootbeans-garden.git"
+  },
+  "author": "Maf'j Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blujay/rootbeans-garden/issues"
+  },
+  "homepage": "https://github.com/blujay/rootbeans-garden",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1",
+    "neo4j": "^1.1.0",
+    "jade": "^1.3.1"
+  }
+}
